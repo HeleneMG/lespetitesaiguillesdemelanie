@@ -1,6 +1,7 @@
  M.AutoInit();
 
 //SCROLL REVEAL
+
 ScrollReveal().reveal('h1', {
     duration: 3000,
     scale: 0.8,
@@ -20,4 +21,10 @@ ScrollReveal().reveal('.ser', {
     //scale: 1,
     reset: true
 });
-
+ScrollReveal().reveal('.robe', {
+    duration: 1500,
+    distance: '200px',
+    origin: 'left',
+    //scale: 1,
+    reset: true
+});
