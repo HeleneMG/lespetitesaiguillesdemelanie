@@ -110,7 +110,13 @@ nav{
 }
 
 /**************accueil****************/
-.ser{
+.ser1{
+  width: 60%;
+}
+.ser2{
+  width: 60%;
+}
+.ser3{
   width: 60%;
 }
 .cent {
